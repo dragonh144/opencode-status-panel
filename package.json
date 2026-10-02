@@ -1,0 +1,7 @@
+{
+  "name": "sidebar-status",
+  "type": "module",
+  "exports": {
+    "./tui": "./tui.tsx"
+  }
+}
